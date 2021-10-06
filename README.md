@@ -6,7 +6,7 @@ What is needed to run:
 Grade: 95/100
 
 Reasons for deductions:
-  - Calling gettimeofday() within loop; causes inaccurate average time
+  - Calling gettimeofday() within loop; causing inaccurate average time
 
 Improvements for next time:
   - Instead of calculating the time each iteration, get the time before
